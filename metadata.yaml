@@ -1,0 +1,32 @@
+_repo: Flying-for-France--With-the-American-Escadrille-at-Verdun_6977
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Rockwell, Paul Ayres
+    birthdate: 1889
+    gutenberg_agent_id: '40111'
+    url: http://www.gutenberg.org/2009/agents/40111
+creator:
+  author:
+    agent_name: McConnell, James R. (James Rogers)
+    birthdate: 1887
+    deathdate: 1917
+    gutenberg_agent_id: '2286'
+    url: http://www.gutenberg.org/2009/agents/2286
+    wikipedia: http://en.wikipedia.org/wiki/James_Rogers_McConnell
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- GITenberg
+title: 'Flying for France: With the American Escadrille at Verdun'
+url: http://www.gutenberg.org/ebooks/6977
